@@ -1,7 +1,7 @@
 NAMA : AURELIO DECA SETYAWAN
 NIM : 24090122
 EMAIL : deka19@gmail.com
-LINK GITHUB REPOSITORY :
+LINK GITHUB REPOSITORY : https://github.com/Dek4444/uts_aureliodeca_24090122
 LINK GITHUB PAGES : 
 DESKRIPSI :
     LOGIN, Halaman Login berfungsi untuk memvalidasi email dan password pengguna sebelum masuk ke sistem. Jika kedua input terisi, pengguna diarahkan ke halaman Dashboard. Jika ada yang kosong, sistem menampilkan pesan error.
@@ -24,4 +24,5 @@ DESKRIPSI :
      - Pada setiap baris ada tombol Edit dan Delete
      - Edit → tampilkan alert
      - Delete → hapus baris setelah konfirmasi
+
     Ini inti dari halaman product untuk menampilkan daftar barang.
